@@ -16,7 +16,7 @@ function getExternalLinks(){
         generateLinkOuts().map((item) => {
             return (
                 <li className="flex align-center">
-                    <a href={item.link} rel="noreferrer" target="_blank" className="flex align-center">
+                    <a href={item.link} rel="noopener noreferrer" target="_blank" className="flex align-center">
                         <span className="flex align-center">
                             <FontAwesomeIcon icon={item.icon} />
                         </span>
