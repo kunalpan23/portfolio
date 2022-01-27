@@ -41,7 +41,7 @@ export default function PersonalInfo() {
                         <span>Hello I'm,</span>
                         <br />
                         <span className="wrap__pi--animate">
-                            <ReactTypingEffect text={["Kunal Panchal", "UI Developer"]} cursorClassName="fw-light animatingCursor" />
+                            <ReactTypingEffect text={["Kunal Panchal", "Frontend Developer"]} cursorClassName="fw-light animatingCursor" />
                         </span>
                     </motion.div> 
                 </h1>
