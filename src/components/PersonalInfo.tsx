@@ -48,7 +48,7 @@ export default function PersonalInfo() {
                 <div>
                     <motion.div animate={{ y: 0, opacity: 1 }} initial={{ y: 30, opacity: 0 }} transition={{ duration: .9, delay: 2, ease: "easeIn" }} >
                         <p className="wrap__pi--description">
-                            I'm currently working at <a href="https://www.media.net/" rel="noopener noreferrer" target="_blank">Media.net</a> in Mumbai, India.<br/> I mostly do the front-end development, and I love to Code and<br/> convert Designs in to functional elements. I like to learn more <br/>and more about programming.
+                            I'm currently working at <a href="https://www.justdial.com/" rel="noopener noreferrer" target="_blank">Justdial Pvt. Ltd</a> in Mumbai, India.<br/> I mostly do the front-end development (ReactJs, Redux, NodeJs), and I love to Code and<br/> convert Designs in to functional elements. I like to learn more <br/>and more about programming.
                         </p>
                     </motion.div>
                 </div> 
